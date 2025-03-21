@@ -1,1 +1,9 @@
 AppData/
+AppData/
+*.ipynb_checkpoints/
+*.bash_history
+*.gitconfig
+Documents/
+Local Settings/
+My Documents/
+Temp/
